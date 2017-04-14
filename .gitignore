@@ -1,0 +1,6 @@
+*.swp
+*.pyc
+.env/*
+/*.zip
+**/.ipynb_checkpoints/
+**/.vscode/
